@@ -1,0 +1,13 @@
+<!--template.wxml-->
+<template name="msgItem">
+ <view class="template_style">
+  <text>template1</text>
+ </view>
+</template>
+<template name="msgItem2">
+ <view class="template_style" style="position:relative;top:100px;z-index:20">
+  <text>template2</text>
+  <text>我是一个未成年</text>
+ </view>
+</template>
+
